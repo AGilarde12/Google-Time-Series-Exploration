@@ -1,9 +1,7 @@
----
-title: "Analysis of Google's closing stock pricing data with a simple forecast"
-output: 
- github_document
----
-```{r}
+# "Analysis of Google's closing stock pricing data with a simple forecast"
+Please check the PDF for output in this repository for output. Github isn't the greatest with r-markdown files. 
+
+```R
 library(forecast)
 library(fpp2)
 ```
